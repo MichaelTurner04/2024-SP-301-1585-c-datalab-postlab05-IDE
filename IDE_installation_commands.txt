@@ -1,0 +1,13 @@
+Installation commands:
+
+CodeBlocks:-
+
+	1. sudo apt-get install codeblocks
+
+Qt-Creator:-
+	
+	1. sudo apt-get install qtcreator
+	2. sudo apt-get install qt5-default
+
+KDevelop:-
+	1. sudo apt-get install kdevelop
